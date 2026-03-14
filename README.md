@@ -2,6 +2,8 @@
 
 Simple student records manager implemented using a binary search tree in C++.
 
+Demo link: https://onlinegdb.com/jT5xGXMLR-
+
 ![alt text](images/image.png)
 
 ## Features
